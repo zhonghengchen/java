@@ -1,5 +1,6 @@
-public class helloworld {
-   public static void main (String[] args {
-      System.out.println("HelloWorld");
-  }
+public class helloworld {  //use";" be careful for the Capital, case matter!
+	public static void main(String[] args) {
+			System.out.println("HelloWorld");//use";" after functions
+	}
 }
+
