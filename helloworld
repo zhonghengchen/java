@@ -1,4 +1,4 @@
-public class helloworld {  //use";" be careful for the Capital, case matter!
+public class Helloworld {  //use";" be careful for the Capital, case matter!
 	public static void main(String[] args) {
 			System.out.println("HelloWorld");//use";" after functions
 	}
