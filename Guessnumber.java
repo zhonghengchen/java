@@ -26,7 +26,7 @@ public class Guessnumber {
 		} while (a != x);
 
 		System.out.println("Correct！");
-
+		input.close();
 	}
 
 }
