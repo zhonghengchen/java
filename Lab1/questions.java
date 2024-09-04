@@ -7,6 +7,8 @@ Write a program that asks the user for three integers, then outputs their sum in
 import java.ulti.Scanner;
 
 public class questions {
+
+  public static void main(String[] args){
   //Write a program to determine what happens if you divide a double by 0.
   double a = 1;
   double b = a /0;
@@ -28,5 +30,5 @@ public class questions {
   System.out.println("The sum of your input is " + sum);
   integers.close();
 
-
+  }
 }
