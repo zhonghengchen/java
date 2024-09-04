@@ -4,7 +4,7 @@ Write a program that asks the user for their name, then says Hello with their na
 Write a program that asks the user for three integers, then outputs their sum in a sentence.
 */
 
-import java.utli.Scanner;
+import java.util.Scanner;
 
 public class questions {
 
@@ -19,7 +19,6 @@ public class questions {
   System.out.println("What is your name?");
   String username = name.nextLine();
   System.out.println("Hello " + username);
-  name.close();
 
   //Write a program that asks the user for three integers, then outputs their sum in a sentence.
   Scanner integers = new Scanner(System.in);
