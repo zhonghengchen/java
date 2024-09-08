@@ -12,4 +12,15 @@ public boolean endOther(String a, String b) {
   String longstr = nb;
   if (a.length() > b.length()) { key = nb; longstr =na;}
   return longstr.endsWith(key);
+
 }
+
+
+/*
+public boolean endOther(String a, String b) {
+  String na = a.toLowerCase();
+  String nb = b.toLowerCase();
+  return na.endsWith(nb) || nb.endsWith(na);
+}
+  
+*/
