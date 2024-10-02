@@ -89,4 +89,12 @@ public class Classroom {
  * that is either open or closed. Create all appropriate private instance variables, add a constructor, accessor methods, a method that 
  * returns the square footage of the room, methods to flip the light switch and open or shut the door and a toString method. 
  * Test it using a main method.
+
+ Outcomes:
+	2400.0
+	true
+	true
+	true
+	false
+	The room number is :101. This room is 40.0 x 60.0 feet. The light is On and the door is Off. 
  */
